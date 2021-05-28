@@ -36,6 +36,7 @@ The Story contains four dashboards:
 
 ## Deployment
 
+The site is deployed at https://eukestad.github.io/Citi-Bike-2020-2021-Analysis/
 
 ## Status
 _finished_
